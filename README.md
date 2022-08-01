@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marcelogbot
-- 👀 I’m interested in Java, Javascript and Python
+- 👋 Hi, I’m Marcelo (@marcelogbot)
+- 👀 I’m interested in Dev and create news solutions
 - 🌱 I’m currently learning React.js, Python and Kafka (Micro services)
-- 📫 How to reach me marcunb@gmail.com
+- 📫 How to reach me: Send me a e-mail (marcunb@gmail.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=merko)

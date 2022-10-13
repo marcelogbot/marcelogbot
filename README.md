@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo (@marcelogbot)
 - 👀 I’m interested in Dev and create news solutions
-- 🌱 I’m currently learning React.js, Python and Kafka (Micro services)
+- 🌱 I’m currently learning SpringBoot, React.js, Python and Kafka (Micro services)
 - 📫 How to reach me: Send me a e-mail (marcunb@gmail.com)
 
 

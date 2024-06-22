@@ -4,8 +4,8 @@
 - 📫 How to reach me: Send me a e-mail (marcelogbot@gmail.com)
 
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelogbot&count_private=true&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogbot&layout=compact&count_private=true&theme=merko)
+<!---![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelogbot&count_private=true&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogbot&layout=compact&count_private=true&theme=merko)--->
 
 <!---
 marcelogbot/marcelogbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

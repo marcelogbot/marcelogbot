@@ -1,6 +1,6 @@
 <h1>Hi, I’m Marcelo👋</h1>
 <h3>Java | Spring Boot | React JS | React Native | JavaScript | TypeScript | HTML | CSS</h3>
-👀 I’m really like Dev and create new solutions </br>
+👀 I really like Dev and create new solutions </br>
 ⏳ For more than 2 years I have been working to learn and develop solutions (Micro services); </br>
 🌱 Now i'm learning about dockers and kubernets </br>
 ☕ Feel free to look at my repositories and give me some feedback, I'll like it a lot. </br>

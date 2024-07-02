@@ -1,5 +1,5 @@
 <h1>Hi, I’m Marcelo👋</h1>
-<h2>Java | Spring Boot | React JS | React Native | JavaScript | TypeScript | HTML | CSS</h2>
+<h3>Java | Spring Boot | React JS | React Native | JavaScript | TypeScript | HTML | CSS</h3>
 👀 I’m interested in Dev and create news solutions </br>
 ⏳ For more than 2 years I have been working to learn and develop solutions (Micro services); </br>
 🌱 Now i'm learning about dockers and kubernets </br>
